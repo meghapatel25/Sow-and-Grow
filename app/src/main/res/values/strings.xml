@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Sow and Grow</string>
+    <string name="get_started_text">Life is a garden!\nSow and Grow \nhelps you make it bloom.</string>
+    <string name="forgot_password_msg">Don\'t worry! it happens. Please enter the email address associated with your account.</string>
+    <string name="on_submit_msg">Check out your mailbox, you will receive an email containing link where you can reset your password</string>
+
+    //Headings
+    <string name="heading_one">Discover Plants</string>
+    <string name="heading_two">Build Your Own Garden</string>
+    <string name="heading_three">Health Assessment</string>
+
+
+    //Description
+    <string name="desc_one">User can explore different plants and their information</string>
+    <string name="desc_two">Add your home plants and check their water requirements</string>
+    <string name="desc_three">Plant Doctor will check the health of your plants</string>
+
+    // Profile Values
+
+    //recycler view
+
+    //plants description
+</resources>
