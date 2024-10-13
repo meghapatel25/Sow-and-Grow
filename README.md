@@ -59,3 +59,8 @@ Sow and Grow is an Android application developed using Android Studio. It is des
 
 - Programming Languages: Kotlin, Java
 - Database: Firebase
+
+# Photo: #
+
+![Sow and Grow](https://github.com/user-attachments/assets/6f7ebe75-09e7-4b19-bf10-b489dc95a286)
+
